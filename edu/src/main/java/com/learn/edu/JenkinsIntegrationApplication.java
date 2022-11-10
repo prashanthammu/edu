@@ -16,6 +16,7 @@ public class JenkinsIntegrationApplication {
 	public void innt()
 	{
 		logger.info("Hello Yuuuu");
+		logger.info("Hello Yuuuu");
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsIntegrationApplication.class, args);
