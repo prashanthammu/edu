@@ -18,6 +18,7 @@ public class JenkinsIntegrationApplication {
 		logger.info("Hello Yuuuu");
 		logger.info("Hello Yuuuu");
 		logger.info("New Job configuration done in maven");
+		logger.info("New Job configuration done in maven");
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsIntegrationApplication.class, args);
